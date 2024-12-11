@@ -47,7 +47,7 @@ The application uses a JSON dataset (`symptoms.json`) that includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sandesh13fr/symptom_checker.git
+   git clone https://github.com/Ansh-2303/Chatbot_techsaksham-.git
    ```
 2. Navigate to the project directory:
    ```bash
