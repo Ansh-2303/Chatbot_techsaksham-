@@ -29,11 +29,11 @@ st.subheader("Connect with me on various platforms!")
 st.markdown("""
 Here are the links to my social media profiles and other platforms where I share my work:
 
-- [GitHub](https://github.com/Sandesh13fr)  
-- [LinkedIn](https://linkedin.com/in/sandesh13fr)    
-- [Instagram](https://www.instagram.com/Sandesh13.0_jrdev)  
-- [Codepen]("https://codepen.io/sandesh13fr")
-- [Dottbio]("https://dott.bio/sandeshdawkhar13")
+- [GitHub](https://github.com/Ansh-2303)  
+- [LinkedIn](https://linkedin.com/in/ansh-patel-48274024b)    
+- [Instagram](https://www.instagram.com)  
+
+
 
 """, unsafe_allow_html=True)
 
